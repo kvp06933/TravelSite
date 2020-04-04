@@ -1,0 +1,34 @@
+body {
+  padding-bottom: 3rem;
+  color: black;
+}
+.navbar {
+  background-color: black;
+}
+
+#showcase {
+  background: url(../img/RioGrandeVista.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+
+#loginModal{
+  background: linear-gradient(#004E5D 0%, #65B283 100%)
+  color: white;
+ }
+ .newsletter {
+   background-color: #17A2B8;
+   padding:20px;
+ }
+.footer{
+  background: linear-gradient(90deg, #004E5D 0%, #65B283 100%)
+}
+.card-header{
+  background: linear-gradient(90deg, #004E5D 0%, #65B283 100%)
+}
+.container-contact {
+  background: linear-gradient(90deg, #004E5D 0%, #65B283 100%)
+}
